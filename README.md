@@ -5,13 +5,15 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version -3.0.1
 
-* System dependencies
+* Rails version -7.0.4.1
 
-* Configuration
+* System dependencies -Ubuntu(22.04) 
 
-* Database creation
+* Configuration -RAM(8GB),Processor i3
+
+* Database creation -Postgresql
 
 * Database initialization
 
